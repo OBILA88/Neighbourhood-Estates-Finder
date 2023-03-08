@@ -1,0 +1,12 @@
+.formField {
+  max-width: 600px;
+  margin: auto;
+  background: #00d4ff;
+  padding: 10px;
+}
+
+#header {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: underline wavy cyan 10px;}  
+}
